@@ -1,10 +1,8 @@
 package main
 
-import(
+import (
 	"github.com/dddbliss/dadjoke/cmd"
 )
-
-
 
 func main() {
 	cmd.Execute()
